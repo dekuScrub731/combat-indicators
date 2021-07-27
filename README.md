@@ -6,3 +6,6 @@ Show highlight of Player and NPCs when in combat
 
 ## NPC Initiated
 ![](https://github.com/dekuScrub731/images/blob/master/combat-indicators-example2.gif)
+
+## Configuration Options
+![](https://github.com/dekuScrub731/images/blob/master/combat-indicators-config.png)
