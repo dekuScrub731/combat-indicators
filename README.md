@@ -2,7 +2,7 @@
 Show highlight of Player and NPCs when in combat
 
 ## Player Initiated
-![](https://i.imgur.com/V37hKZT.gif)
+![](https://github.com/dekuScrub731/images/blob/master/combat-indicators-example1.gif)
 
 ## NPC Initiated
-![](https://i.imgur.com/6CF9cbr.gif)
+![](https://github.com/dekuScrub731/images/blob/master/combat-indicators-example2.gif)
